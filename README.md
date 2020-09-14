@@ -9,6 +9,7 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=hz-os-master&metric=alert_status)](https://sonarcloud.io/dashboard?id=hz-os-master)
 
 ----
+
 Реверс инжиниринг [Архитектуры] Hazelcast [30 августа 2020]
 https://drive.google.com/drive/folders/1wi_Kg5mKDUbftnNXPo442BOinxaSjmN6 
 
