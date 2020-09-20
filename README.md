@@ -13,6 +13,11 @@
 
 https://drive.google.com/drive/folders/1wi_Kg5mKDUbftnNXPo442BOinxaSjmN6 
 
+----  
+Реверс инжиниринг [Архитектуры] Ignate2.6 [2018 года]
+
+https://drive.google.com/drive/folders/1dFyHn3-PqFOXjY6ivSgpwP00WFZ_K3Dc
+
 Hazelcast is an open-source distributed in-memory data store and
 computation platform. It provides a wide variety of distributed data
 structures and concurrency primitives, including:
